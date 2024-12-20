@@ -1,0 +1,59 @@
+.goida{
+    background-color: orange;
+    height: 12rem;
+    border: 2px black solid;
+}
+.gol{
+    background-color: gold;
+    border: 2px black solid;
+    height: 50%;
+}
+.horus{
+    background-color: blue;
+    height: 50%;
+}
+.bluegen{
+    background-color: aquamarine;
+    height: 24rem;
+    border: 2px black solid;
+}
+.clad{
+    background-color: aquamarine;
+    height: 24rem;
+
+}
+.pinkgen{
+    background-color: pink;
+    height: 24rem;
+    border: 2px black solid;
+}
+.clon{
+    background-color: pink;
+    height: 24rem;
+    border: 2px black solid;
+}
+.purplegen{
+    background-color: purple;
+    height: 50%;
+    border: 2px black solid;
+}
+.purpledon{
+    background-color: purple;
+    height: 50%;
+    border: 2px black solid;
+}
+.redgen{
+    height: 100%;
+    background-color: red;
+    border: 1px black solid;
+}
+.redgen2{
+    height: 33.333%;
+    background-color: brown;
+    border: 2px black solid;
+}
+.orangegen{
+    height: 100%;
+    background-color: rgba(255, 128, 0, 0.945);
+    border: 2px black solid;
+}
